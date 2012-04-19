@@ -1,6 +1,6 @@
 // This is a simple module used by the examples and tests to simulate an asynchronous API.
 
-var sys = require('sys');
+var sys = require('util');
 
 var db = {
 	'userId:paul': 1,
