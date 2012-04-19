@@ -1,12 +1,14 @@
 {
   "name"          : "flow",
-  "description"   : "Flow-JS makes it easy to express multi-step asynchronous logic in Node or the browser",
-  "url"           : "http://github.com/willconant/flow-js",
+  "description"   : "Fork of the no longer maintained Flow-JS library created by Will Conant",
+  "url"           : "http://github.com/chrisinajar/flow-js",
   "keywords"      : ["util", "functional", "server", "client", "browser"],
-  "author"        : "Will Conant <will.conant@gmail.com>",
-  "contributors"  : [],
+  "author"        : "Chris Vickery <chrisinajar@gmail.com>",
+  "contributors"  : [
+	"Will Conant <will.conant@gmail.com>"
+  ],
   "dependencies"  : [],
   "lib"           : ".",
   "main"          : "flow.js",
-  "version"       : "0.2.2"
+  "version"       : "0.3.0"
 }
