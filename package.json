@@ -1,5 +1,5 @@
 {
-  "name"          : "flow",
+  "name"          : "jar-flow",
   "description"   : "Fork of the no longer maintained Flow-JS library created by Will Conant",
   "url"           : "http://github.com/chrisinajar/flow-js",
   "keywords"      : ["util", "functional", "server", "client", "browser"],
