@@ -151,7 +151,7 @@
 		exports.exec = exec;
 		exports.serialForEach = serialForEach;
 	}
-	else if (typeof window !== "undefined") {
+	if (typeof window !== "undefined") {
 		window.flow = {
 			define: define,
 			exec: exec,
